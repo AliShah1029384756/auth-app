@@ -11,7 +11,7 @@ It includes **automated testing using Mocha & Chai** and is integrated with a **
 
 ## 👨‍💻 Author
 
-* **Name:** Ali Shah
+* **Name:** Syed Muhammad Ali Naqvi
 * **Submission Date:** April 2026
 
 ---
